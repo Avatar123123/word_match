@@ -1,0 +1,20 @@
+.card{
+    display: grid;
+    justify-content: center;
+}
+
+
+.instruction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    background-color: yellow;
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px solid green;
+    padding: 1rem;
+}
+.instruction h3 {
+    text-align: center;
+}
