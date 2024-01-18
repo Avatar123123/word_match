@@ -1,7 +1,7 @@
 
 
 ### Description of the game
-This game is about matching words that are related to each other. 
+This game is about matching similar words. 
 
 ### How to play
 * The task is to match the words that are related.
