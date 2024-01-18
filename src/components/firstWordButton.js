@@ -1,5 +1,4 @@
-// is there an way to use props
-// what about object destructuring what is that, what is it used for?
+
 import {React, useState} from 'react';
 import { firstWordList, wordData } from "../data/wordData"
 import { secondWordList } from '../data/wordData';
@@ -38,7 +37,7 @@ export default function FirstWordButton()
             if (wordData[i].firstWord === firstButton && wordData[i].secondWord === secondButton){
     
                 setAnswer('Correct');
-                return // look into the how this fixed the code 
+                return
                 
              } else {
                 setAnswer('Try again');

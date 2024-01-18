@@ -1,18 +1,8 @@
-// import React, { useState } from 'react';
 import React from 'react';
 import FirstWordButton from './firstWordButton';
 import styles from '../styles/Task.module.css'
-// import SecondWordButton from './secondWordButton';
-
-// import { wordData } from '../data/wordData';
-// import { firstWordList, secondWordList } from '../data/wordData';
-
 
 export default function Task() {
-    // const [firstwrd, setfirstwrd] = useState('');
-    // const [secondwrd, setsecondwrd] = useState('');
-
-
     return (
         
         <div className={styles.card}>
